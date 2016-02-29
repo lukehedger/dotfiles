@@ -1,0 +1,23 @@
+"*":
+  core:
+    excludeVcsIgnoredPaths: false
+    themes: [
+      "atom-dark-ui"
+      "batman-syntax"
+    ]
+  editor:
+    fontFamily: "Hack"
+    invisibles: {}
+    softWrap: true
+  fonts:
+    fontFamily: "Hack"
+  "one-dark-ui":
+    fontSize: 11
+  "recent-files":
+    updated: false
+  tabs:
+    usePreviewTabs: true
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
