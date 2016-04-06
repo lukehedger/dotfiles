@@ -1,0 +1,1 @@
+apm install Sublime-Style-Column-Selection autocomplete-emojis autocomplete-sass batman-syntax emmet file-icons fonts gl-light-syntax language-javascript-jsx motepair open-recent pretty-json slime tasks turbo-javascript vivid-syntax
