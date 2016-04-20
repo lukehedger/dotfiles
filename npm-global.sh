@@ -1,1 +1,1 @@
-npm i -g n trash
+npm i -g n nodemon trash
