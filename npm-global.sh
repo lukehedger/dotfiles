@@ -1,1 +1,1 @@
-npm i -g n nodemon trash
+npm i -g n nodemon trash-cli
