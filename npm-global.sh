@@ -1,1 +1,1 @@
-npm i -g n nodemon trash-cli
+npm i -g live-server n nodemon now surge trash-cli

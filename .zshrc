@@ -13,6 +13,8 @@ plugins=(git)
 
 # export PATH=$PATH:$HOME/.node/bin:/usr/local/bin
 
+# export PATH="$HOME/.yarn/bin:$PATH"
+
 source $ZSH/oh-my-zsh.sh
 
 # aliases
@@ -23,8 +25,21 @@ alias gpl='git pull'
 alias gps='git push'
 alias gpom='git push -u origin master'
 alias gpod='git push -u origin develop'
+# npm
+# install --save
+alias ins='npm i -S'
+# install --save-dev
+alias insd='npm i -D'
+# yarn
+# add
+alias ya='yarn add'
+# add --dev
+alias yad='yarn add --dev'
 # cd
 alias dev='cd ~/dev'
+alias scripts='cd ~/Library/Application\ Support/iTerm/Scripts/'
 # + other dir shortcuts
 # atom
 alias atm='atom .'
+# open
+alias opn='open .'
