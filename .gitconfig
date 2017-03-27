@@ -3,11 +3,17 @@
 [user]
 	name = Luke Hedger
 	email = luke.hedger@gmail.com
+[credential]
+	helper = osxkeychain
+[color]
+	ui = true
+[push]
+	default = simple
 [alias]
 	today = !git log --since=midnight --author=\"$(git config user.name)\" --oneline
 	yday = !git log --since=day.before.yesterday.midnight --until=midnight --author=\"$(git config user.name)\" --oneline
 	co = !git checkout
 	pu = !git push -u
-	ci = !git commit -am
-[push]
-	default = simple
+	ci = !git commit -m
+	ad = !git add .
+	br = !git branch
