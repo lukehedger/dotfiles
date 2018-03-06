@@ -1,1 +1,1 @@
-npm i -g @xervo/cli live-server n nodemon now surge trash-cli
+npm i -g favicon-emoji live-server n now npm pushstate-server surge trash-cli

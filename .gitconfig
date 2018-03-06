@@ -1,8 +1,8 @@
 [url "https://"]
 	insteadOf = git://
 [user]
-	name = Luke Hedger
-	email = luke.hedger@gmail.com
+	name = lukehedger
+	email = lh4@protonmail.com
 [credential]
 	helper = osxkeychain
 [color]
@@ -15,5 +15,6 @@
 	co = !git checkout
 	pu = !git push -u
 	ci = !git commit -m
+	cin = !git commit --no-verify -m
 	ad = !git add .
 	br = !git branch

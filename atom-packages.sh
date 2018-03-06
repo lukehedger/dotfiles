@@ -1,1 +1,1 @@
-apm install Sublime-Style-Column-Selection autocomplete-emojis autocomplete-sass batman-syntax emmet file-icons fonts gl-light-syntax language-babel language-graphql open-recent pretty-json slime tasks turbo-javascript vivid-syntax
+apm install Sublime-Style-Column-Selection ariake-dark-syntax autocomplete-emojis autocomplete-solidity docblockr emmet file-icons language-babel language-solidity open-recent pinned-tabs pretty-json styri-syntax teletype

@@ -1,18 +1,16 @@
 "*":
   core:
-    excludeVcsIgnoredPaths: false
+    audioBeep: false
     themes: [
-      "atom-dark-ui"
-      "batman-syntax"
+      "one-dark-ui"
+      "ariake-dark-syntax"
     ]
+    titleBar: "custom"
   editor:
-    fontFamily: "Hack"
+    fontFamily: "Operator Mono"
+    fontSize: 16
     invisibles: {}
     softWrap: true
-  fonts:
-    fontFamily: "Hack"
-  "one-dark-ui":
-    fontSize: 11
   "recent-files":
     updated: false
   tabs:
@@ -21,3 +19,4 @@
     hideIgnoredNames: true
   welcome:
     showOnStartup: false
+  whitespace: {}
