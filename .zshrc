@@ -25,21 +25,18 @@ alias gpl='git pull'
 alias gps='git push'
 alias gpom='git push -u origin master'
 alias gpod='git push -u origin develop'
-# npm
-# install --save
-alias ins='npm i -S'
-# install --save-dev
-alias insd='npm i -D'
-# yarn
-# add
-alias ya='yarn add'
-# add --dev
-alias yad='yarn add --dev'
 # cd
 alias dev='cd ~/dev'
-alias scripts='cd ~/Library/Application\ Support/iTerm/Scripts/'
-# + other dir shortcuts
+# finder
+alias opn='open .'
 # atom
 alias atm='atom .'
-# open
-alias opn='open .'
+# vs code
+alias cde='code-insiders .'
+# npm
+alias ins='npm i -S'
+alias insd='npm i -D'
+alias inse='npm i -E'
+# yarn
+alias ya='yarn add --exact'
+alias yad='yarn add --dev --exact'

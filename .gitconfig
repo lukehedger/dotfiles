@@ -2,7 +2,6 @@
 	insteadOf = git://
 [user]
 	name = lukehedger
-	email = lh4@protonmail.com
 [credential]
 	helper = osxkeychain
 [color]

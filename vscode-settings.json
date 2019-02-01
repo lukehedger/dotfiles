@@ -1,0 +1,26 @@
+{
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily": "Iosevka, Iosevka Slab, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Panda Syntax",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.scrollBeyondLastLine": false,
+  "files.insertFinalNewline": true,
+  "explorer.confirmDragAndDrop": false,
+  "python.jediEnabled": false,
+  "terminal.integrated.copyOnSelection": true,
+  "go.formatTool": "gofmt",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
+}
